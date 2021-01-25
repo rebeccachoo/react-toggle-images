@@ -1,3 +1,8 @@
+
+### React Toggle Images Simple Page
+
+This is one page that shows 4 images. You can toggle all the images and, when you click an image, it will delete an image.
+
 ### `npm i`
 
 Install the app in the development mode.\ 
