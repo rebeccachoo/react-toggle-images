@@ -3,6 +3,11 @@
 
 This is one page that shows 4 images. You can toggle all the images and, when you click an image, it will delete an image.
 
+| Feature | Description |
+| -----: | :----------- |
+|  Image | <img src="https://github.com/rebeccachoo/youtube-style/blob/main/Screen%20Shot%202021-01-12%20at%208.45.02%20AM.png?raw=true"  width="400">|
+
+
 ### `npm i`
 
 Install the app in the development mode.\ 
