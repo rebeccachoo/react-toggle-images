@@ -5,7 +5,8 @@ This is one page that shows 4 images. You can toggle all the images and, when yo
 
 | Feature | Description |
 | -----: | :----------- |
-|  Image | <img src="https://github.com/rebeccachoo/youtube-style/blob/main/Screen%20Shot%202021-01-12%20at%208.45.02%20AM.png?raw=true"  width="400">|
+|  Image | <img src="![toggle](https://user-images.githubusercontent.com/254729/105732654-4ce56580-5ef6-11eb-8260-f5b551c9ad6e.png)
+"  width="400">|
 
 
 ### `npm i`
