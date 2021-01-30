@@ -1,7 +1,7 @@
 
 # React Toggle Images Simple Page
 
-This is one page that shows 4 images. 
+This is a single page that contains 4 images. This has Javascript functions.
 You can toggle all the images and, when you click an image, it will delete an image.
 
 | Feature | Description |
