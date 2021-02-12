@@ -11,7 +11,7 @@ You can toggle all the images and, when you click an image, it will delete an im
 
 ## Installation
 
-### `npm i`
+### `npm install`
 
 Install the app in the development mode.\ 
 
